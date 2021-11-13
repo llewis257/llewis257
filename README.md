@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llewis257
 - 👀 I’m interested in Machine Learning algorithm conception
 - 🌱 I’m currently learning Graph Neural Networks
-- 💞️ Mostly AI basically ;)
+- 💞️ Mostly AI basically and Software dev ;)
 - 📫 How to reach me munezerolewis@outlook.fr
 
 <!---
