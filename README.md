@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @llewis257
 - 👀 I’m interested in Machine Learning algorithm conception
-- 🌱 I’m currently learning Graph Neural Networks
+- 🌱 I’m currently attempting to make a neural network with just NumPy
 - 💞️ Mostly AI basically and Software dev ;)
 - 📫 How to reach me munezerolewis@outlook.fr
 
