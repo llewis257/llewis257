@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llewis257
-- 👀 I’m interested in Machine Learning algorithm conception
-- 🌱 I’m currently attempting to make a neural network with just NumPy
-- 💞️ Mostly AI basically and Software dev ;)
+- 👀 I’m interested in ML algorithms and XAI
+- 🌱 Currently coding for fun
+- 💞️ Mostly Machine Learning basically and Software eng ;)
 - 📫 How to reach me munezerolewis@outlook.fr
 
 <!---
