@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llewis257
 - 👀 I’m interested in ML algorithms and XAI
 - 🌱 Currently coding for fun
-- 💞️ Mostly Machine Learning basically and Software eng ;)
+- 💞️ Mostly Machine Learning and Software eng ;)
 - 📫 How to reach me munezerolewis@outlook.fr
 
 <!---
